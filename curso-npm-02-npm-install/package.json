@@ -1,0 +1,21 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oscar Barajas <oscar@platzi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "date-fns": "^2.8.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
